@@ -1,0 +1,86 @@
+What does SQL stand for? Answer Provided:
+Structured Query Language
+
+Correct Answer: Structured Query Language
+Which SQL statement is used to delete complete data from an existing table? Answer Provided: DELETE
+Correct Answer: TRUNCATE
+Which SQL statement is used to remove rows from a table? Answer Provided:
+DELETE
+
+Correct Answer: DELETE
+Which SQL statement is used to return only different values? Answer Provided: SELECT DIFFERENT ColumnName FROM TableName;
+Correct Answer: SELECT DISTINCT ColumnName FROM TableName;
+Which SQL statement is used to delete complete data from an existing table & table structure from the database? Answer Provided:
+DROP
+
+Correct Answer: DROP
+Which SQL statement is used to insert new rows of data to a table in a database Answer Provided: ADD
+Correct Answer: INSERT
+Which SQL keyword is used to sort the data in ascending or descending order, based on one or more columns Answer Provided: SORT
+Correct Answer: ORDER BY
+With SQL, how do you select a column named "FirstName" from a table named "Employees"? Answer Provided: SELECT * FROM Employees
+Correct Answer: SELECT FirstName FROM Employees
+Which SQL statement is used to modify the existing records in a table? Answer Provided:
+UPDATE
+
+Correct Answer: UPDATE
+Which SQL statement is used to extract data from a database? Answer Provided: EXTRACT
+Correct Answer: SELECT
+With SQL, how do you select all the columns from a table named "Employees"? Answer Provided: SELECT FROM Employees
+Correct Answer: SELECT * FROM Employees
+The table rows are also known as Answer Provided:
+Records
+
+Correct Answer: Records
+The table columns are also known as Answer Provided: Records
+Correct Answer: Attributes
+Which of the following is not a RDBMS? Answer Provided: MySQL
+Correct Answer: MongoDB
+Which of the following is not a Data Definition Language (DDL) statement? Answer Provided: ALTER
+Correct Answer: UPDATE
+The AND operator displays a record if all the conditions separated by AND are TRUE Answer Provided:
+True
+
+Correct Answer: True
+The OR operator displays a record if any of the conditions separated by OR is TRUE Answer Provided:
+True
+
+Correct Answer: True
+Which of the following is not a part of SQL Answer Provided: Data Control Language
+Correct Answer: Data Structured Language
+Which of the following is not an SQL Aggregate function Answer Provided: AVG()
+Correct Answer: ABS()
+The UNION operator is used to Answer Provided: Combine the result-set of no more than two SELECT statements and must have the same number of columns
+Correct Answer: Combine the result-set of two or more SELECT statements and must have the same number of columns
+Which function returns the difference between two dates Answer Provided: DATEDIFFERENCE()
+Correct Answer: DATEDIFF()
+Which statement is correct Answer Provided:
+To sort in ascending or descending order we can use the keywords ASC or DESC respectively
+
+Correct Answer: To sort in ascending or descending order we can use the keywords ASC or DESC respectively
+The MIN() function returns the smallest value of the selected column and The MAX() function returns the largest value of the selected column Answer Provided:
+True
+
+Correct Answer: True
+Which of the following keyword you use to modify the existing value in an UPDATE query? Answer Provided: EDIT
+Correct Answer: SET
+What is the keyword you use to group the result by a column's values? Answer Provided:
+GROUP BY
+
+Correct Answer: GROUP BY
+A NULL value is different than a zero value or a field that contains spaces Answer Provided:
+True
+
+Correct Answer: True
+Subqueries can be nested multiple times Answer Provided:
+True
+
+Correct Answer: True
+Which SQL keyword you use to merge two tables based on a matching column? Answer Provided: AND
+Correct Answer: JOIN
+The result of a SELECT statement can contain duplicate rows Answer Provided:
+True
+
+Correct Answer: True
+Which type of database management system represents relations using tables? Answer Provided: Hierachical DBMS
+Correct Answer: Relational DBMS
